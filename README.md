@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParrisPerson
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently working with Swift as Senior Developer
+- 💞️ I’m looking to collaborate on cutting edge projects
 - 📫 How to reach me dai.person.parris@gmail.com
 
 <!---
